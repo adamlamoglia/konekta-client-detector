@@ -1,0 +1,1 @@
+# konekta-client-detector
